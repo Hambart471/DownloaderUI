@@ -1,0 +1,6 @@
+/build/
+/CMakeFiles/
+*.pro.user*
+.DS_Store
+Thumbs.db
+DownloaderUI.exe
