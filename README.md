@@ -3,8 +3,7 @@
 A simple Qt6-based, multithreaded file downloader with a clean desktop GUI.
 
 <p align="center">
-  <!-- Place your animated demo GIF at assets/demo.gif -->
-  <img src="assets/demo.gif" alt="DownloaderUI Demo" width="600"/>
+  <img src="assets/DownloaderUI.gif" alt="DownloaderUI Demo" width="600"/>
 </p>
 
 ## Features
