@@ -48,20 +48,3 @@ A simple Qt6 desktop app that downloads multiple files in parallel with a clean,
 
 4. **Shutdown**  
    - On exit, MainWindow waits (`wait()`) for all workers to finish, then cleans up threads and UI.
-
----
-
-## 🛠️ Building & Running
-
-- **Clone** your repo:  
-  `git clone https://github.com/YourUser/DownloaderUI.git`  
-  `cd DownloaderUI`
-
-- **Build** (in one line):  
-  `mkdir build && cd build && cmake .. && cmake --build .`
-
-- **Run**  
-  - On **Windows** (Debug):  
-    go into the `build/Debug` folder and run `DownloaderUI.exe`.  
-  - On **Linux/macOS**:  
-    from `build` run `./DownloaderUI`.
