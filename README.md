@@ -3,9 +3,9 @@
 A simple Qt6 desktop app that downloads multiple files in parallel with a clean, dark‑neon GUI.
 
 <p align="center">
-  ![Qt6](https://img.shields.io/badge/Qt-6.x-blue?logo=qt)
-  ![CMake](https://img.shields.io/badge/CMake-3.16%2B-orange?logo=cmake)
-  ![C++17](https://img.shields.io/badge/C%2B%2B-17+-lightgrey?logo=c%2B%2B)
+  <img src="https://img.shields.io/badge/Qt-6.x-blue?logo=qt" alt="Qt6"/>
+  <img src="https://img.shields.io/badge/CMake-3.16%2B-orange?logo=cmake" alt="CMake"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-17+-lightgrey?logo=c%2B%2B" alt="C++17"/>
 </p>
 
 <p align="center">
